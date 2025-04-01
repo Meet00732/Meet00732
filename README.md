@@ -16,7 +16,7 @@
 
 ## 🛠️ Tools I Work With
 
-**Languages & Querying**  
+**Languages**  
 Python · SQL · Java · C/C++ · JavaScript · R
 
 **ML & Data Science**  
