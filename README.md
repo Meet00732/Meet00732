@@ -9,32 +9,30 @@
 ## 🚀 What I'm Working On
 
 - Building an ML pipeline for **demand forecasting** using Airflow, GCP, and Vertex AI  
-- Developing a **real-time Reddit topic drift detector** using Kafka, Airflow, AWS and Transformers  
+- Developing a **real-time Reddit topic drift detector** using Kafka, Airflow, AWS, and Transformers  
 - Experimenting with smarter MLOps setups that make ML deployment less painful
 
 ---
 
 ## 🛠️ Tools I Work With
 
-## 🛠️ Tools I Work With
+**Languages & Querying**  
+Python · SQL · Java · C/C++ · JavaScript · R
 
-**Languages & Querying:**  
-Python, SQL, Java, C/C++, JavaScript, R
+**ML & Data Science**  
+Scikit-learn · PyTorch · TensorFlow · XGBoost · PySpark · NLTK · Pandas · NumPy · Matplotlib · Seaborn · Holoviews
 
-**ML & Data Science:**  
-Scikit-learn, PyTorch, TensorFlow, XGBoost, PySpark, NLTK, Pandas, NumPy, Matplotlib, Seaborn, Holoviews
+**Cloud & MLOps**  
+Docker · Kubernetes · Airflow · MLflow · Terraform · GitHub Actions · Cloud Composer
 
-**Cloud & MLOps:**  
-Docker, Kubernetes, Airflow, MLflow, Terraform, GitHub Actions, Cloud Composer
+**Cloud Platforms & Storage**  
+GCP (BigQuery, Cloud Storage, Vertex AI) · AWS (S3, Redshift, DynamoDB, Bedrock, Textract)
 
-**Cloud Platforms & Storage:**  
-GCP (BigQuery, Cloud Storage, Vertex AI), AWS (S3, Redshift, DynamoDB, Bedrock, Textract)
+**Databases & Warehouses**  
+PostgreSQL · MySQL · MongoDB · Snowflake
 
-**Databases & Warehouses:**  
-PostgreSQL, MySQL, MongoDB, Snowflake
-
-**Data Engineering & Workflow Tools:**  
-Kafka, DBT, Snowpipe, Lambda, Power BI, Tableau, Confluence, Jira
+**Data Engineering & Workflow Tools**  
+Kafka · DBT · Snowpipe · Lambda · Power BI · Tableau · Confluence · Jira
 
 ---
 
@@ -53,15 +51,23 @@ Kafka, DBT, Snowpipe, Lambda, Power BI, Tableau, Confluence, Jira
 ## 🤝 Let’s Connect
 
 - 📫 [Email](mailto:patel.meetd@northeastern.edu)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/meetpatel00732)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/meetpatel00732)
 
 ---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-...
+## 🚀 Tech Stack Highlights
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0064a5?style=flat&logo=mlflow&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-56B9EB?style=flat&logo=snowflake&logoColor=white)
+
+---
 
 > I like building things that don't just sit in notebooks — but ship, scale, and solve actual problems.
-
