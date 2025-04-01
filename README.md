@@ -41,7 +41,7 @@ Kafka · DBT · Snowpipe · Lambda · Power BI · Tableau · Confluence · Jira
 | Project | What it Does |
 |--------|---------------|
 | 🔥 [SupplySense Demand Forecasting](https://github.com/MLOPS-Talksick/SupplyChainOptimization) | End-to-end forecasting pipeline with GCP, Vertex AI & Airflow – reduced error by 9% |
-| 🧵 [Reddit Topic Drift Detection](https://github.com/Meet00732/Real-Time-Reddit-Data-Streaming) | Tracks shifting conversations on Reddit in real time using streaming clustering |
+|🧵 [Reddit Topic Drift Detection](https://github.com/Meet00732/Real-Time-Reddit-Data-Streaming) | Tracks shifting conversations on Reddit in real time using streaming clustering |
 | 📄 [LLM Document Summarizer](https://github.com/Meet00732/Document-Summarizer) | Uses Claude 3.5 (via AWS Bedrock) to summarize documents efficiently |
 | 🎧 [Spotify ETL System](https://github.com/Meet00732/Spotify-ETL-System) | Serverless ETL pipeline with Lambda & Snowflake – real-time Spotify analytics |
 | 🧮 [Insurance Premium Prediction](https://github.com/Meet00732/Insurance-Premium-Prediction) | ML pipeline with Streamlit + Docker – achieved 89% R² and deployed with CI/CD |
